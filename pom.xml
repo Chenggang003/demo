@@ -40,4 +40,11 @@
         </plugins>
     </build>
 
+    <repositories>
+        <repository>
+            <id>vcredit-repo</id>
+            <url>http://pro.nexus.vcredit.com.local/repository/maven-public/</url>
+        </repository>
+    </repositories>
+
 </project>
