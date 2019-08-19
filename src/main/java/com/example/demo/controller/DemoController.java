@@ -14,6 +14,6 @@ public class DemoController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "hello 华为云！";
+        return "hello 华为云！完成了jenkins的自动集成部署";
     }
 }
